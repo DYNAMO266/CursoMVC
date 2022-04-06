@@ -1,0 +1,9 @@
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaDatos\bin\Debug\CapaDatos.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaDatos\bin\Debug\CapaEntidad.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaDatos\bin\Debug\CapaEntidad.pdb
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaDatos\obj\Debug\CapaDatos.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaDatos\obj\Debug\CapaDatos.pdb

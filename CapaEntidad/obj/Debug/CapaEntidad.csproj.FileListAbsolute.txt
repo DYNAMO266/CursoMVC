@@ -1,0 +1,5 @@
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb

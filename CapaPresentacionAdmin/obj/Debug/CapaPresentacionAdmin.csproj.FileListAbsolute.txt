@@ -1,0 +1,178 @@
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe.config
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.rsp
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe.config
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.rsp
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.AppContext.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Console.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Http.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.ValueTuple.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe.config
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.rsp
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\WebGrease.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.xml
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.xml
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.xml
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.xml
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.xml
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.xml
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.xml
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Razor.resources.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe.config
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csc.rsp
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe.config
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\csi.rsp
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.AppContext.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Collections.Immutable.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Console.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Globalization.Calendars.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Http.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Sockets.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.ValueTuple.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe.config
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\vbc.rsp
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe.config
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.Web.Infrastructure.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\WebGrease.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.xml
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.xml
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.xml
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\System.Web.Razor.xml
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.xml
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.xml
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.xml
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.xml
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.pdb
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.pdb
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Helpers.resources.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Mvc.resources.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Optimization.resources.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.Razor.resources.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.resources.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+E:\PROYECTOS PROGRAMACION\.NET\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
