@@ -131,7 +131,7 @@ namespace CapaDatos
         {
             bool resultado = false;
             Mensaje = string.Empty;
-
+            //MENSAJE DE ELIMINAR
             try
             {
                 using (SqlConnection oconexion = new SqlConnection(Conexion.cn))
